@@ -1,0 +1,36 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace TesteEstagio
+{
+    public class InverterChar
+    {
+         public static string Inverter(string str)
+        {
+            // Converte a string para um array de caracteres
+            char[] chars = str.ToCharArray();
+
+            // Inverte os caracteres do array
+            int i = 0;
+            int j = chars.Length - 1;
+
+            while (i < j)
+            {
+                char temp = chars[i];
+                chars[i] = chars[j];
+                chars[j] = temp;
+
+                i++;
+                j--;
+            }
+
+            // Converte o array de volta para uma string
+            
+            string invertida = new string(chars);
+
+            return invertida;
+        }
+    }
+}

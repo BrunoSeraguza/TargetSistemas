@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\TesteEstagio\bin\Debug\net7.0\TesteEstagio.exe
+C:\Users\User\Desktop\TesteEstagio\bin\Debug\net7.0\TesteEstagio.deps.json
+C:\Users\User\Desktop\TesteEstagio\bin\Debug\net7.0\TesteEstagio.runtimeconfig.json
+C:\Users\User\Desktop\TesteEstagio\bin\Debug\net7.0\TesteEstagio.dll
+C:\Users\User\Desktop\TesteEstagio\bin\Debug\net7.0\TesteEstagio.pdb
+C:\Users\User\Desktop\TesteEstagio\obj\Debug\net7.0\TesteEstagio.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TesteEstagio\obj\Debug\net7.0\TesteEstagio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TesteEstagio\obj\Debug\net7.0\TesteEstagio.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TesteEstagio\obj\Debug\net7.0\TesteEstagio.AssemblyInfo.cs
+C:\Users\User\Desktop\TesteEstagio\obj\Debug\net7.0\TesteEstagio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TesteEstagio\obj\Debug\net7.0\TesteEstagio.dll
+C:\Users\User\Desktop\TesteEstagio\obj\Debug\net7.0\refint\TesteEstagio.dll
+C:\Users\User\Desktop\TesteEstagio\obj\Debug\net7.0\TesteEstagio.pdb
+C:\Users\User\Desktop\TesteEstagio\obj\Debug\net7.0\TesteEstagio.genruntimeconfig.cache
+C:\Users\User\Desktop\TesteEstagio\obj\Debug\net7.0\ref\TesteEstagio.dll
+C:\Users\User\Desktop\TesteEstagio\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\TesteEstagio\obj\Debug\net7.0\TesteEstagio.csproj.CopyComplete
