@@ -10,7 +10,7 @@ using System.Threading.Tasks;
   
   public void Fibo()
   {
-     Console.Write("Digite um número: ");
+     Console.Write("Digite um numero: ");
             int numero = int.Parse(Console.ReadLine());
 
             bool pertenceFibonacci = Verificar(numero);
