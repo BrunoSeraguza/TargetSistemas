@@ -9,10 +9,10 @@ namespace TesteEstagio
     {
          public static string Inverter(string str)
         {
-            // Converte a string para um array de caracteres
+            
             char[] chars = str.ToCharArray();
 
-            // Inverte os caracteres do array
+         
             int i = 0;
             int j = chars.Length - 1;
 
@@ -25,9 +25,7 @@ namespace TesteEstagio
                 i++;
                 j--;
             }
-
-            // Converte o array de volta para uma string
-            
+             
             string invertida = new string(chars);
 
             return invertida;
